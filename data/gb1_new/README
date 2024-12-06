@@ -1,0 +1,2 @@
+#Note - the Processed_data files for this protein are large. As such, the training and testing sets are given as-is, without additional files for the splits. 
+#The train.zip file must also be decompressed
