@@ -1,4 +1,4 @@
-# GNN
+# Protein Dynamics-Based Deep Learning Model
 (1)	Data – protein sequence, protein function. 
 
 (1.1)	AA index – values for AAs. 19.npy – perhaps a wrapper encoding the 19 properties
