@@ -1,7 +1,7 @@
 import os
 from os.path import abspath, join, isdir
 import sys
-sys.path.append('/scratch/nhuynh9/GNN_PyTorch/')  
+sys.path.append('/scratch/USERNAME/')  
 if not isdir("notebooks"):
     # if there's a "notebooks" directory in the cwd, we've already set the cwd so no need to do it again
     os.chdir("..")
